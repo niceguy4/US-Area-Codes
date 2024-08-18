@@ -1,7 +1,7 @@
-# US Area Code List
-## https://www.areacodelocations.info/areacodelist.html
-## As of 8/18/2024
-## 457 items
+## US Area Code List
+### https://www.areacodelocations.info/areacodelist.html
+### As of 8/18/2024
+### 457 items
 
 201
 202
