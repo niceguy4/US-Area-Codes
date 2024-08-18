@@ -1,4 +1,3 @@
-# US-Area-Codes
 # US Area Code List
 # https://www.areacodelocations.info/areacodelist.html
 # As of 8/18/2024
